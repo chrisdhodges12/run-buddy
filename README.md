@@ -12,3 +12,5 @@ https://chrisdhodges12.github.io/run-buddy/
 
 ## Contribution
 Made with ❤️  by Chris Hodges 
+
+### ©️2019 Run Buddy, Inc 
